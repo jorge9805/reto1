@@ -1,4 +1,5 @@
-# mayor suma dos elementos consecutivos
+# mayor suma dos elementos consecutivos, para esto se guarde el mayor valor de la suma de dos elementos consecutivos y se compara con el siguiente par de elementos, si la suma de estos es mayor que el mayor valor de la suma de dos elementos consecutivos se actualiza el valor del mayor valor de la suma de dos elementos consecutivos
+
 
 def mayor_suma(numeros):
     mayor=0
