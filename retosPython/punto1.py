@@ -11,3 +11,7 @@ def operaciones_basicas(a, b, operacion):
         return a / b
     else:
         return "Operacion no valida"
+print(operaciones_basicas(2, 3, "+"))
+print(operaciones_basicas(2, 3, "-"))
+print(operaciones_basicas(2, 3, "x"))
+print(operaciones_basicas(2, 3, "/"))
